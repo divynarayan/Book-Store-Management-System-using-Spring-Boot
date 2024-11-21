@@ -1,4 +1,4 @@
-# Book-Store-Management-System-using-Spring-Boot
+# Book Store Management System
 
 A web-based application developed using **Spring Boot** to simplify bookstore operations for both customers and administrators. It features a user-friendly interface for browsing, searching, and purchasing books, secure authentication, and a robust shopping cart system. The application also includes an admin panel for managing inventory and processing orders.
 
@@ -30,4 +30,4 @@ A web-based application developed using **Spring Boot** to simplify bookstore op
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/book-store-management-system.git
+   git clone https://github.com/divynarayan/Book-Store-Management-System-using-Spring-Boot.git
